@@ -1,0 +1,3 @@
+[submodule "gsendmail"]
+	path = gsendmail
+	url = git://github.com/drylikov/gSendMail.git
